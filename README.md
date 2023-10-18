@@ -5,5 +5,11 @@ Thiis repository contains the code neeede to replicate the results of the paper.
 
 See the steps below!
 
-1. Add your own dataset using "add_dataset.py"
-2. Run ssl_trials using your custom dataset.
+## Installation 
+
+```sh
+git clone https://github.com/jwcalder/GraphLearningOld
+cd GraphLearningOld
+python setup.py install --user
+```
+
