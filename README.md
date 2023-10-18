@@ -12,4 +12,13 @@ git clone https://github.com/jwcalder/GraphLearningOld
 cd GraphLearningOld
 python setup.py install --user
 ```
+## Run the add_dataset.py
 
+```sh
+python add_dataset.py
+```
+
+## Run ssl_trials.py for each dataset
+```
+python ssl_trials.py
+```
