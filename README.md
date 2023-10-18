@@ -13,12 +13,12 @@ cd GraphLearningOld
 python setup.py install --user
 ```
 ## Run the add_dataset.py
-
 ```sh
 python add_dataset.py
 ```
 
-## Run ssl_trials.py for each dataset
+## Run ssl_trials.py for each dataset using the appropriate settings.
+
 ```
-python ssl_trials.py
+python classification.py
 ```
